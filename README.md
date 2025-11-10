@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Angel%20Salinas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-  ### Backend Engineer @ Cimiento | Building AI Chatbots & Automation Systems
+### Backend Engineer @ Cimiento | Building AI Chatbots & Automation Systems
 
   [![Portfolio](https://img.shields.io/badge/🌐_angelsalinas.dev-blueviolet?style=for-the-badge)](https://angelsalinas.dev)
   [![Email](https://img.shields.io/badge/Email-tprog.angel.salinas@outlook.com-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:tprog.angel.salinas@outlook.com)
