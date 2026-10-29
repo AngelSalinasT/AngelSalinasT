@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" width="420" height="300">
+  <rect x="1" y="1" width="418" height="298" rx="14" fill="#09060E" stroke="#38195D" stroke-width="2"/>
+  <circle cx="26" cy="24" r="6" fill="#BF94AA"/><circle cx="46" cy="24" r="6" fill="#9169BB"/><circle cx="66" cy="24" r="6" fill="#38195D"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">
+    <text x="24" y="72" fill="#9169BB">$ <tspan fill="#EDE6F5">whoami</tspan></text>
+    <text x="24" y="96" fill="#BF94AA">angel · Querétaro, MX · tinkerer</text>
+    <text x="24" y="134" fill="#9169BB">$ <tspan fill="#EDE6F5">cat now.txt</tspan></text>
+    <text x="24" y="158" fill="#BF94AA">AI agents in production</text>
+    <text x="24" y="182" fill="#BF94AA">reviving a 2015 e-reader</text>
+    <text x="24" y="220" fill="#9169BB">$ <tspan fill="#EDE6F5">claude</tspan></text>
+    <text x="24" y="244" fill="#71499A">› what are we building today?</text>
+    <rect x="24" y="258" width="10" height="18" fill="#BF94AA">
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

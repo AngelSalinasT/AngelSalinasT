@@ -1,151 +1,143 @@
-<div align="center">
+<img src="assets/banner.svg" alt="Angel Salinas" width="100%"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Angel%20Salinas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<p align="center">
+  <a href="https://angelsalinas.dev"><img src="https://img.shields.io/badge/angelsalinas.dev-38195D?style=for-the-badge&logo=googlechrome&logoColor=BF94AA&labelColor=09060E" alt="angelsalinas.dev"/></a>
+  <a href="mailto:tprog.angel.salinas@outlook.com"><img src="https://img.shields.io/badge/email-38195D?style=for-the-badge&logo=minutemailer&logoColor=BF94AA&labelColor=09060E" alt="Email"/></a>
+  <a href="https://www.tiktok.com/@angerss_sykes"><img src="https://img.shields.io/badge/tiktok-38195D?style=for-the-badge&logo=tiktok&logoColor=BF94AA&labelColor=09060E" alt="TikTok"/></a>
+  <img src="https://img.shields.io/badge/Querétaro,_MX-38195D?style=for-the-badge&logo=googlemaps&logoColor=BF94AA&labelColor=09060E" alt="Querétaro, Mexico"/>
+</p>
 
-### Backend Engineer @ Cimiento | Building AI Chatbots & Automation Systems
+<h2 align="center">Hi, I'm Angel</h2>
 
-  [![Portfolio](https://img.shields.io/badge/🌐_angelsalinas.dev-blueviolet?style=for-the-badge)](https://angelsalinas.dev)
-  [![Email](https://img.shields.io/badge/Email-tprog.angel.salinas@outlook.com-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:tprog.angel.salinas@outlook.com)
-  [![Location](https://img.shields.io/badge/📍_México-green?style=for-the-badge)](https://github.com/AngelSalinasT)
+<table>
+<tr>
+<td width="58%" valign="top">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=AngelSalinasT&color=blueviolet&style=for-the-badge)
+The first thing I ever tried to fix was a PlayStation 1. The disc lid was broken and all I had was a folded piece of paper. It didn't always work, and I got frustrated plenty of times, but it taught me something I still believe: you can get surprisingly far with what you have if you understand how it works.
 
-</div>
+Years later I was flashing ROMs on a Xiaomi Mi A2 every other weekend, until an iPhone 5 showed me the other side: a system so stable and simple you forget it's there. That's the bar I try to build to. I still pick value over hype, and the most open option whenever I can.
 
----
+Today I build AI products at **Cimiento AI** with **Claude Code**. I decide what gets built, review it, test it on the real system and ship it.
 
-## 🚀 About Me
+</td>
+<td width="42%" align="center" valign="middle">
+<img src="assets/terminal.svg" alt="whoami" width="100%"/>
+</td>
+</tr>
+</table>
 
-I'm a backend developer passionate about **AI automation, chatbots, and scalable systems**. I specialize in building intelligent solutions with modern tools like **LangChain**, **LangGraph**, and **n8n**.
+## What I like building
 
-- 🔧 Working with Python, Swift, TypeScript, and PHP
-- 🤖 Building chatbots and automation workflows
-- 📱 Developing iOS apps with SwiftUI
-- ☁️ Deploying on AWS (S3, CloudFront, Lambda)
-- 🎯 Focus on practical, production-ready solutions
+<table>
+<tr>
+<td width="55%" valign="top">
 
----
+Product. The hardest and most fun part of my job is the user experience: figuring out how a feature can be simple enough for many people to use and actually make their work easier.
 
-## 💻 Tech Stack
+At Cimiento AI I designed and built **Auro**, the platform where a business creates its own AI agent. It feeds Auro its website and business info, and in under 40 seconds it has an agent answering its customers on WhatsApp, booking appointments and following up.
 
-<div align="center">
+Responding to messages is the easy part. The hard part is an agent that qualifies leads, books, follows up and doesn't make things up, every day, with real customers. That's what I work on.
 
-### Backend & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+Outside of work I automate my own life and bring old devices back.
 
-### Frontend & Mobile
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0066FF?style=for-the-badge&logo=swift&logoColor=white)
+</td>
+<td width="45%" align="center" valign="top">
+<img src="assets/chat.svg" alt="Example conversation with an AI agent" width="100%"/>
+</td>
+</tr>
+</table>
 
-### Infrastructure & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## Projects
 
-### Automation & AI Tools
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Whisper](https://img.shields.io/badge/🎤_Whisper.cpp-000000?style=for-the-badge)
-![Metal](https://img.shields.io/badge/⚡_Metal_GPU-999999?style=for-the-badge)
+<table>
+<tr>
+<td colspan="2" valign="top">
 
-</div>
+**Auro** · *Cimiento AI, in production*<br/>
+SaaS platform to create AI agents for WhatsApp and Instagram, used by real estate, wellness and retail businesses. I designed and built it end to end: onboarding, the agents (LangGraph), the backend (FastAPI, Celery, PostgreSQL with pgvector) and the dashboard.
 
----
+**[Tzolk'in](https://www.npmjs.com/package/tzolk)** · *open source on npm, paused*<br/>
+AI-first project management: coding agents share the same memory and board as people. CLI and MCP server with persistent context across sessions, multi-tenant organizations and a web dashboard. 15 releases on npm.
 
-## 🔥 Featured Projects
+</td>
+</tr>
+<tr>
+<td width="64%" valign="top">
 
-### 🎤 [transcribos](https://github.com/AngelSalinasT/transcribos)
-High-performance CLI for macOS using **Whisper.cpp** with **Metal GPU acceleration** for ultra-fast audio transcription.
-> `Swift` • `Whisper` • `Metal` • `macOS`
+**[kobo-glohd](https://github.com/AngelSalinasT/kobo-glohd)**<br/>
+A simpler interface for the 2015 Kobo Glo HD on top of KOReader, inspired by Kindle and iOS. Includes a kernel module that fixes the power button, safe battery shutdown and SSH over USB.
 
-### 💳 [kontos ecosystem](https://github.com/AngelSalinasT/kontosapp)
-Complete finance management suite with **Telegram Bot** + **iOS app**
-- **kontos**: Telegram bot for expense tracking
-- **kontosapp**: Native iOS app with SwiftUI + SwiftData + Charts
-> `Python` • `SwiftUI` • `Telegram API` • `Finance`
+**[alcatel-pixi3-10-8080](https://github.com/AngelSalinasT/alcatel-pixi3-10-8080)**<br/>
+A bricked tablet brought back to life running LineageOS 14.1: a kernel adapted from a sibling model and a display driver rebuilt by disassembling the stock kernel.
 
-### 🏢 [gestor-plazas](https://github.com/AngelSalinasT/gestor-plazas)
-Enterprise full-stack system for managing commercial properties with **Laravel** + **React**
-> `Laravel` • `React` • `MySQL` • `Enterprise`
+</td>
+<td width="36%" align="center" valign="middle">
+<a href="https://github.com/AngelSalinasT/kobo-glohd"><img src="assets/kobo-atajos.png" alt="kobo-glohd" width="90%"/></a>
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-### 🌐 [pageangelsalinas](https://github.com/AngelSalinasT/pageangelsalinas)
-Personal portfolio built with **Astro**, deployed on **AWS CloudFront + S3**
-> `Astro` • `AWS` • `TypeScript` • [Live Demo →](https://angelsalinas.dev)
+**[Lumi](https://github.com/AngelSalinasT/lumi)**<br/>
+An AI companion for older adults, so no one has to age alone: it keeps them talking, remembering and socializing. Built with my team at Hackathon Troyano 2026, where I led development and the AI.
 
-### ❤️ [PulseCare](https://github.com/AngelSalinasT/PulseCare)
-Healthcare platform for real-time cardiovascular monitoring
-> `HealthTech` • `Real-time` • `Patient Care`
+**[kontos](https://github.com/AngelSalinasT/kontos)**<br/>
+My personal finance assistant, so I stop doing the math by hand. It started as a Telegram bot and now logs expenses automatically.
 
----
+**[transcribos](https://github.com/AngelSalinasT/transcribos)**<br/>
+Local audio transcription on the Mac with Whisper.cpp and Metal.
 
-## 📊 GitHub Stats
+</td>
+<td align="center" valign="middle">
+<a href="https://github.com/AngelSalinasT/lumi"><img src="assets/lumi.png" alt="Lumi" width="60%"/></a>
+</td>
+</tr>
+</table>
 
-<div align="center">
+## A few problems I've cracked
 
-  ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelSalinasT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+- **A power button that couldn't wake the device.** On the Kobo Glo HD the button stopped working after sleep. A read-only kernel module I wrote to dump GPIO registers showed why: `gpio-keys` asks for both edges, this kernel's mxc GPIO driver emulates that with level triggering, and level interrupts never register while the SoC is asleep. The cover only "worked" because closing it interrupts the infrared touchscreen beams. The fix is a small kernel module that arms the button as a falling-edge wake source before suspend and injects `KEY_POWER` on resume. [Write-up](https://github.com/AngelSalinasT/kobo-glohd/blob/main/docs/05-boton-de-encendido.md)
+- **A display driver with no source code.** Alcatel never released the kernel for its Pixi 3 (10) tablet. I recovered the panel's timings, init sequence and GPIOs by disassembling the stock kernel binary, rebuilt the driver, and patched the eMMC 5.1 check that crashed the kernel at boot. [Kernel patches](https://github.com/AngelSalinasT/alcatel-pixi3-10-8080#kernel-changes)
+- **Manga pages 13× faster on a 2015 e-reader.** Measured with KOReader's own engine on the device: the CPU wasn't the bottleneck, the image size was. Converting pages to the screen's resolution in grayscale took them from ~1130 ms to ~86 ms. [Numbers](https://github.com/AngelSalinasT/kobo-glohd/blob/main/docs/07-rendimiento.md)
+- **The "factory reset" screen.** KOReader never shut the Kobo down at critical battery, so the PMU cut power with storage still mounted, the likely cause of a corrupted filesystem. A plugin now shuts it down cleanly, waking from sleep every 4 hours with an RTC alarm to check. [Details](https://github.com/AngelSalinasT/kobo-glohd/blob/main/docs/06-bateria-y-arranque.md)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AngelSalinasT&theme=tokyonight&hide_border=true)
+> If it hasn't been tested on the real device, it isn't done.
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelSalinasT&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+## Where I think this is going
 
-</div>
+Remember Samantha in *Her*: an operating system you just talk to, and it helps you get your work done. I already work a bit like that. What agents are missing now is their own environment, one where moving around feels natural to them. Claude Code and Codex already work inside your computer, but they're still clumsy because everything they touch was made for humans. MCP helped, but it falls short.
 
----
+When a model as capable as today's Opus runs locally on something like a MacBook Air, it's going to be wild. That's why I think we should start building tools AI-first. I haven't built it yet. I'd like to.
 
-## 🏆 GitHub Trophies
+## Tools I use
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,fastapi,postgres,redis,docker,aws,cloudflare,swift,linux,c,lua,bash,git&perline=7" alt="Tech stack"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-38195D?style=for-the-badge&logo=claude&logoColor=BF94AA&labelColor=09060E" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/LangGraph-38195D?style=for-the-badge&logo=langgraph&logoColor=BF94AA&labelColor=09060E" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/n8n-38195D?style=for-the-badge&logo=n8n&logoColor=BF94AA&labelColor=09060E" alt="n8n"/>
+  <img src="https://img.shields.io/badge/WhatsApp_API-38195D?style=for-the-badge&logo=whatsapp&logoColor=BF94AA&labelColor=09060E" alt="WhatsApp API"/>
+</p>
 
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=AngelSalinasT&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+<details>
+<summary><b>En español</b></summary>
 
-</div>
+<br/>
 
----
+**Hola, soy Angel.** Lo primero que intenté arreglar fue un PlayStation 1. La tapa del disco estaba rota y lo único que tenía era un pedazo de papel doblado. No siempre funcionaba y me frustré muchas veces, pero me enseñó algo que sigo creyendo: con lo que tienes llegas sorprendentemente lejos si entiendes cómo funcionan las cosas.
 
-## 📈 Contribution Graph
+Años después me la pasaba cambiando ROMs a un Xiaomi Mi A2, hasta que un iPhone 5 me enseñó el otro lado: un sistema tan estable y simple que te olvidas de que está ahí. Esa es la vara con la que intento construir. Sigo eligiendo calidad-precio antes que moda, y la opción más libre cuando se puede.
 
-<div align="center">
+Hoy construyo productos con IA en **Cimiento AI** con **Claude Code**. Yo decido qué se construye, reviso, pruebo en el sistema real y lo pongo en producción.
 
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AngelSalinasT&theme=tokyo-night&hide_border=true&area=true)
+**Lo que me gusta construir:** producto. Lo más difícil y lo más divertido de mi trabajo es la experiencia de usuario: lograr que una función sea tan simple que la use mucha gente y de verdad le facilite el trabajo. En Cimiento AI diseñé y construí Auro, la plataforma donde un negocio crea su propio agente de IA: le da su sitio web y la información de su negocio, y en menos de 40 segundos tiene un agente que atiende a sus clientes, agenda citas y da seguimiento. Fuera del trabajo automatizo mi vida y revivo aparatos viejos.
 
-</div>
+**Proyectos:** Auro (la plataforma SaaS de Cimiento AI para crear agentes de IA en menos de 40 segundos; la diseñé y construí de punta a punta), [Tzolk'in](https://www.npmjs.com/package/tzolk) (gestión de proyectos AI-first para agentes de código, CLI y servidor MCP, 15 versiones en npm, en pausa), [kobo-glohd](https://github.com/AngelSalinasT/kobo-glohd), [alcatel-pixi3-10-8080](https://github.com/AngelSalinasT/alcatel-pixi3-10-8080), [Lumi](https://github.com/AngelSalinasT/lumi) (compañía con IA para adultos mayores, hecho con mi equipo en el Hackathon Troyano 2026), [kontos](https://github.com/AngelSalinasT/kontos) y [transcribos](https://github.com/AngelSalinasT/transcribos).
 
----
+**Problemas que he resuelto:** el botón de encendido de la Kobo que no la despertaba (lo diagnostiqué con un módulo de kernel de solo lectura y lo arreglé con otro), el driver de pantalla de la Alcatel reconstruido desensamblando el kernel original, mangas 13 veces más rápidos en la Kobo midiendo dentro del aparato, y el apagado seguro por batería que evita la pantalla de restaurar de fábrica.
 
-## 🎯 What I'm Working On
+**Hacia dónde creo que va esto:** acuérdate de Samantha en *Her*, un sistema operativo con el que solo hablas y te ayuda a sacar tu trabajo. Yo ya trabajo un poco así. A los agentes les falta su propio entorno, uno donde moverse les resulte natural. Claude Code y Codex ya trabajan dentro de tu computadora, pero todavía son torpes porque todo lo que tocan está hecho para humanos. MCP ayudó, pero se queda corto. Cuando un modelo tan capaz como el Opus de hoy corra localmente en algo como una MacBook Air, va a ser una locura. Por eso creo que hay que empezar a construir herramientas AI-first. Todavía no lo he construido. Me gustaría.
 
-- 🤖 Building production chatbots with LangChain & LangGraph
-- 📱 Developing iOS finance management apps
-- ⚡ Optimizing ML inference on Apple Silicon (Metal)
-- ☁️ Deploying scalable backend systems on AWS
-
----
-
-## 📫 Let's Connect!
-
-- 💼 Portfolio: [angelsalinas.dev](https://angelsalinas.dev)
-- 📧 Email: tprog.angel.salinas@outlook.com
-- 🐙 GitHub: [@AngelSalinasT](https://github.com/AngelSalinasT)
-- 📱 TikTok: [@angerss_sykes](https://www.tiktok.com/@angerss_sykes)
-
----
-
-<div align="center">
-
-  **💡 Open to collaborations on AI, automation, and backend projects!**
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+</details>
